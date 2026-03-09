@@ -2,6 +2,8 @@
 
 Telegram-бот для записи клиентов к стоматологу. Написан на Python с использованием aiogram 3 и SQLite.
 
+![telegram-cloud-photo-size-2-5292198199386903405-y](https://github.com/user-attachments/assets/f8aed7d8-962c-4ce2-9e53-634db058cc8c)
+
 ## Стек
 
 - Python 3.11+
