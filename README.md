@@ -26,7 +26,7 @@ Telegram-бот для записи клиентов к стоматологу. 
 
 ```bash
 git clone https://github.com/username/dental-bot.git
-cd dental-bot
+cd StomatologyBot
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
